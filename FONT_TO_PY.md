@@ -154,7 +154,7 @@ be ignored.
 
 ## 3.2 The font file
 
-Assume that the you have employed the utility to create a file `myfont.py`. In
+Assume that you have employed the utility to create a file `myfont.py`. In
 your code you will issue:
 
 ```python
